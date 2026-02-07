@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Servidor\Servidor\bin\Release\Servidor.exe.config
+C:\Users\User\source\repos\Servidor\Servidor\bin\Release\Servidor.exe
+C:\Users\User\source\repos\Servidor\Servidor\bin\Release\Servidor.pdb
+C:\Users\User\source\repos\Servidor\Servidor\obj\Release\Servidor.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Servidor\Servidor\obj\Release\Servidor.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Servidor\Servidor\obj\Release\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Servidor\Servidor\obj\Release\Servidor.exe
+C:\Users\User\source\repos\Servidor\Servidor\obj\Release\Servidor.pdb
+C:\Users\User\source\repos\Servidor\Servidor\obj\Release\Servidor.exe.config
+C:\Users\User\source\repos\Servidor\Servidor\obj\Release\Servidor.ServicioServidor.resources

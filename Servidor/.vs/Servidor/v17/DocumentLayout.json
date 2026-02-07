@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Servidor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37611A3E-18EB-4626-9219-D9ADD09A357F}|Servidor\\Servidor.csproj|c:\\users\\user\\source\\repos\\servidor\\servidor\\timeserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37611A3E-18EB-4626-9219-D9ADD09A357F}|Servidor\\Servidor.csproj|solutionrelative:servidor\\timeserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37611A3E-18EB-4626-9219-D9ADD09A357F}|Servidor\\Servidor.csproj|C:\\Users\\User\\source\\repos\\Servidor\\servidor\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37611A3E-18EB-4626-9219-D9ADD09A357F}|Servidor\\Servidor.csproj|solutionrelative:servidor\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37611A3E-18EB-4626-9219-D9ADD09A357F}|Servidor\\Servidor.csproj|C:\\Users\\User\\source\\repos\\Servidor\\servidor\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37611A3E-18EB-4626-9219-D9ADD09A357F}|Servidor\\Servidor.csproj|solutionrelative:servidor\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 211,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TimeServer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Servidor\\Servidor\\TimeServer.cs",
+              "RelativeDocumentMoniker": "Servidor\\TimeServer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Servidor\\Servidor\\TimeServer.cs",
+              "RelativeToolTip": "Servidor\\TimeServer.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAowKsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:01:37.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Service1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Servidor\\Servidor\\Service1.cs",
+              "RelativeDocumentMoniker": "Servidor\\Service1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Servidor\\Servidor\\Service1.cs",
+              "RelativeToolTip": "Servidor\\Service1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T09:59:47.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Service1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Servidor\\Servidor\\Service1.cs",
+              "RelativeDocumentMoniker": "Servidor\\Service1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Servidor\\Servidor\\Service1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Servidor\\Service1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T09:59:06.875Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
